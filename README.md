@@ -3,4 +3,4 @@
 - 📫 How to reach me:
   - Mail: `nils.dambowy@googlemail.com`
   
-![Paddyk45's GitHub stats](https://github-readme-stats.vercel.app/api?username=paddyk45)
+![Nils's GitHub stats](https://github-readme-stats.vercel.app/api?username=nils-dambowy)
